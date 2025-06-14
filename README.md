@@ -4,7 +4,6 @@ Welcome to the AI Bias Bounty Hackathon!
 
 Join us as we explore, detect, and report biases in AI models and datasets. This is an exciting opportunity to contribute to ethical AI while building your skills and network.
 
-<br>
 
 # 🚀 Overview
 
@@ -15,7 +14,6 @@ The goal is to encourage the development of fair and responsible AI systems.
 
 **Official Website**: [Hack the Fest](https://hackthefest.com/)
 
-<br>
 
 # 🗓️ Key Dates
 
@@ -29,7 +27,6 @@ The goal is to encourage the development of fair and responsible AI systems.
 | Judging Period                  | *\[July 5 – July 15, 2025]*        |
 | Winners Announced               | *\[July 17, 2025]*                 |
 
-<br>
 
 # 🎯 Objectives
 
@@ -41,7 +38,6 @@ Participants will:
 
 - Present solutions that contribute to fairness and accountability in AI.
 
-<br>
 
 # 🛠️ Getting Started
 
@@ -69,7 +65,6 @@ Participants will:
 
 - README file for your submission repository
 
-<br>
 
 # 📑 Submission Guidelines
 
@@ -85,7 +80,6 @@ Participants will:
 
 3. Follow all provided instructions and deadlines.
 
-<br>
 
 # 🏆 Judging Criteria
 
@@ -99,7 +93,6 @@ Participants will:
 
 5. Impact Potential – Contribution to fairness and responsible AI.
 
-<br>
 
 # 🤝 Sponsors & Partners
 
@@ -113,13 +106,11 @@ Follow us for updates and highlights:
 
 - **Devpost**: [AI Bias Bounty Hackathon](https://ai-bias-bounty-hackathon.devpost.com/)
 
-<br>
 
 # 📚 Code of Conduct
 
 We are committed to providing a welcoming and inclusive environment for all participants. Please review our [Code of Conduct].
 
-<br>
 
 # 💬 Communication
 

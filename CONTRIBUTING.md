@@ -15,7 +15,13 @@ Click the "Fork" button in the top-right corner to create your own copy of the r
 Name your branch descriptively based on the feature or fix.
 
 ```bash
+# Feature branch
 git checkout -b feature/add-your-feature
+
+OR
+
+# Bug branch
+git checkout -b bug/add-your-bug
 ```
 
 ### 3. Make Changes

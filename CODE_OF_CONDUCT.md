@@ -2,6 +2,7 @@
 
 We are dedicated to providing a harassment-free, inclusive, and respectful experience for everyone.
 
+
 ## Our Standards
 
 All participants, organizers, sponsors, and volunteers are expected to:
@@ -14,6 +15,7 @@ All participants, organizers, sponsors, and volunteers are expected to:
 
 - Give constructive feedback with kindness.
 
+
 ### Unacceptable Behaviors
 
 - Harassment, intimidation, or discrimination.
@@ -24,6 +26,7 @@ All participants, organizers, sponsors, and volunteers are expected to:
 
 - Disruption of presentations or hackathon activities.
 
+
 ## Enforcement
 
 Violations of this Code of Conduct may result in:
@@ -32,11 +35,13 @@ Violations of this Code of Conduct may result in:
 
 - Reporting to appropriate authorities if necessary.
 
+
 ## Reporting
 
 If you witness or experience unacceptable behavior, please report it immediately to the hackathon organizers via:
 
 - [Contact Support](support@hackthefest.com)
+
 
 We take all concerns seriously and will address them promptly.
 

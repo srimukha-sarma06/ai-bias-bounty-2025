@@ -1,6 +1,6 @@
 # 📂 AI Bias Bounty Hackathon
 
-Welcome to the AI Bias Bounty Hackathon!
+Welcome to the **2025 AI Bias Bounty Hackathon**!
 
 Join us as we explore, detect, and report biases in AI models and datasets. This is an exciting opportunity to contribute to ethical AI while building your skills and network.
 
